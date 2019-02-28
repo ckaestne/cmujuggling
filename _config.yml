@@ -1,0 +1,18 @@
+# Site settings
+baseurl: "/user/juggle/" # the subpath of your site, e.g. /blog/
+url: "https://www.andrew.cmu.edu" # the base hostname & protocol for your site
+ 
+# Build settings
+markdown: kramdown
+
+highlighter: rouge
+permalink: pretty
+
+gallerytag:
+      magick_lib: mini   
+      source_dir: photos
+      destination_dir: photos/thumbs
+      url: /user/juggle/photos
+      thumb_width: 265
+      thumb_height: 265
+      columns: 4

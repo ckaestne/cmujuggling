@@ -1,0 +1,139 @@
+---
+layout: default
+---
+ 
+{% gallery galleryname %}
+{% for gal in site.data.gallery %}
+{{gal.img}}.jpg
+{% endfor %}
+{% endgallery %}
+
+<!-- Section: about -->
+    <section id="about" class="home-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          
+            <div class="section-heading text-center">
+            <div class="wow" data-wow-delay="0.2s">
+              <h1>Masters of Flying Objects</h1>
+                                                        <h2>The Carnegie Mellon University Juggling Club</h2>
+            </div>
+            </div>
+          
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+        
+          <img src="img/img1.jpg" class="img-responsive img-rounded" alt="" />
+        </div>    
+        <div class="col-md-6">
+  {% capture something %}
+  {% include home.md %}
+  {% endcapture %}
+
+  {{ something | markdownify }}
+        </div>
+      </div>    
+    </div>
+  </section>
+
+
+<!-- Section: separator -->
+    <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5">
+    
+    <div class="container">
+      <div class="row">
+          <!-- <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="align-center txt-shadow">
+              <div class="icon">
+                <i class="fa fa-graduation-cap fa-5x"></i>
+              </div>
+            <span class="color-white">Bachelor of Design</span>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="align-center txt-shadow">
+              <div class="icon">
+                <i class="fa fa-heart fa-5x"></i>
+              </div>
+            <span class="color-white">10x failed in love</span>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="align-center txt-shadow">
+              <div class="icon">
+                <i class="fa fa-plane fa-5x"></i>
+              </div>
+            <span class="color-white">I love traveling</span>
+            </div>
+          </div>
+          <div class="col-xs-6 col-sm-3 col-md-3">
+            <div class="align-center txt-shadow">
+              <div class="icon">
+                <i class="fa fa-camera fa-5x"></i>
+              </div>
+            <span class="color-white">I'm photographer</span>
+            </div>
+          </div> -->
+      </div>    
+    </div>
+  </section>
+  <!-- /Section: separator -->
+
+
+
+  <!-- Section: gallery -->
+    <section id="gallery" class="home-section text-center bg-gray">
+
+      <!-- <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="wow bounceInDown" data-wow-delay="0.4s">
+          <div class="section-heading">
+            <h2>My photo gallery</h2>
+            <p>Take a look at my personal moment, enjoy</p>
+          </div>
+          </div>
+        </div>
+      </div>
+      </div> -->
+
+    <div class="container">
+      <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-12" >
+          <div class="wow bounceInUp" data-wow-delay="0.4s">
+                    <div id="owl-works" class="owl-carousel">
+{% for gal in site.data.gallery %}
+<div class="item"><a href="photos/{{ gal.img }}.jpg" data-lightbox-gallery="gallery1"><img src="photos/thumbs/{{ gal.img }}-thumb.jpg" class="img-responsive" alt="img"></a></div> 
+{% endfor %}
+
+                    </div>
+          </div>
+                </div>
+            </div>
+    </div>
+  </section>
+
+
+
+
+ <section id="about" class="home-section">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          
+            {% capture something %}
+  {% include aboutus.md %}
+  {% endcapture %}
+
+  {{ something | markdownify }}
+          
+        </div>
+      </div>
+    </div>
+  </section>

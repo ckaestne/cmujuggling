@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta http-equiv="refresh" content="0; url=https://www.andrew.cmu.edu/user/juggle/" />
+<link rel="stylesheet" href="styles.css" type="text/css" media="all" />
+<title>Carnegie Mellon Masters of Flying Objects</title>
+<script src="http://www.google.com/jsapi/"
+      type="text/javascript"></script>
+      <script src="http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.js"
+            type="text/javascript"></script>
+  <style type="text/css">
+      @import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+
+    #feedControl { 
+          margin-top : 20px;
+               
+      width : 440px;
+            font-size: 16px;
+                  color: #9CADD0;
+                      }
+                        </style>
+                          <script type="text/javascript">
+                              function load() {
+                                    var feed ="http://www.mail-archive.com/juggling-members@lists.andrew.cmu.edu/maillist.xml";
+                                          new GFdynamicFeedControl(feed, "feedControl");
+
+    }
+        google.load("feeds", "1");
+            google.setOnLoadCallback(load);
+              </script>
+</head>
+<body>
+
+<div class="container">
+	<div class="sidelinks">
+		<a href="index.html" class="home">home</a>
+		<a href="news.html" class="home">news</a>
+		<a href="about.html" class="about">about us</a>
+		<a href="media.html" class="media">videos</a>
+	</div>
+
+	<div class="content">
+<br><h1><span style="font-size:75%">Carnegie Mellon</span><br>
+
+        Masters of Flying Objects</h1>
+<br>
+<br>
+  <div class="newsitem">
+
+  Here are the most recent messages of our mailing list, typically containing anouncement of meeting times and places:
+
+<div id="feedControl">Loading...</div>
+
+
+If the page does not load, you find the messages here: <a href="http://www.mail-archive.com/juggling-members@lists.andrew.cmu.edu/">Mailing list archive</a>
+
+</body>
+</html>
