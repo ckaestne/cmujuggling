@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
- 
+
 {% gallery galleryname %}
 {% for gal in site.data.gallery %}
 {{gal.img}}.jpg
@@ -13,14 +13,14 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          
+
             <div class="section-heading text-center">
             <div class="wow" data-wow-delay="0.2s">
               <h1>Masters of Flying Objects</h1>
-                                                        <h2>The Carnegie Mellon University Juggling Club</h2>
+              <h2>The Carnegie Mellon University Juggling Club</h2>
             </div>
             </div>
-          
+
         </div>
       </div>
     </div>
@@ -28,9 +28,9 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-        
+
           <img src="img/img1.jpg" class="img-responsive img-rounded" alt="" />
-        </div>    
+        </div>
         <div class="col-md-6">
   {% capture something %}
   {% include home.md %}
@@ -38,14 +38,14 @@ layout: default
 
   {{ something | markdownify }}
         </div>
-      </div>    
+      </div>
     </div>
   </section>
 
 
 <!-- Section: separator -->
     <section id="separator" class="home-section parallax text-center" data-stellar-background-ratio="0.5">
-    
+
     <div class="container">
       <div class="row">
           <!-- <div class="col-xs-6 col-sm-3 col-md-3">
@@ -80,7 +80,7 @@ layout: default
             <span class="color-white">I'm photographer</span>
             </div>
           </div> -->
-      </div>    
+      </div>
     </div>
   </section>
   <!-- /Section: separator -->
@@ -109,7 +109,7 @@ layout: default
           <div class="wow bounceInUp" data-wow-delay="0.4s">
                     <div id="owl-works" class="owl-carousel">
 {% for gal in site.data.gallery %}
-<div class="item"><a href="photos/{{ gal.img }}.jpg" data-lightbox-gallery="gallery1"><img src="photos/thumbs/{{ gal.img }}-thumb.jpg" class="img-responsive" alt="img"></a></div> 
+<div class="item"><a href="photos/{{ gal.img }}.jpg" data-lightbox-gallery="gallery1"><img src="photos/thumbs/{{ gal.img }}-thumb.jpg" class="img-responsive" alt="img"></a></div>
 {% endfor %}
 
                     </div>
@@ -126,13 +126,13 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
-          
+
             {% capture something %}
   {% include aboutus.md %}
   {% endcapture %}
 
   {{ something | markdownify }}
-          
+
         </div>
       </div>
     </div>

@@ -1,31 +1,36 @@
 ---
 layout: default
 ---
- 
+
 
 <!-- Section: about -->
     <section id="about" class="home-section">
     <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          
-            <div class="section-heading text-center">
-            <div class="wow" data-wow-delay="0.2s">
-              <h1>Masters of Flying Objects</h1>
-                                                        <h2>The Carnegie Mellon University Juggling Club</h2>
-            </div>
-            </div>
-          
+      <div class="section-heading text-center">
+        <div class="wow" data-wow-delay="0.2s">
+          <h1>Masters of Flying Objects</h1>
+          <h2>The Carnegie Mellon University Juggling Club</h2>
+        </div>
+      </div>
+      <div class="row bigtext">
+        <div class="col-md-6 col-md-offset-3">
+          <div class="text-center">
+            {% capture something %}
+            {% include club.md %}
+            {% endcapture %}
+
+            {{ something | markdownify }}
+          </div>
         </div>
       </div>
     </div>
 
     <div class="container">
-      <div class="row">
+      <div class="row bigtext">
         <div class="col-md-6">
-        
+
           <img src="img/img1.jpg" class="img-responsive img-rounded" alt="" />
-        </div>    
+        </div>
         <div class="col-md-6">
   {% capture something %}
   {% include home.md %}
@@ -33,7 +38,19 @@ layout: default
 
   {{ something | markdownify }}
         </div>
-      </div>    
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          {% capture something %}
+          {% include mailing.md %}
+          {% endcapture %}
+
+          {{ something | markdownify }}
+        </div>
+      </div>
     </div>
   </section>
 
@@ -44,7 +61,9 @@ layout: default
         <div class="col-lg-8 col-lg-offset-2">
           <h3>Campus Map</h3>
 
-            <img src="img/map.jpg"  class="img-responsive img-rounded" alt="map" />
+          <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1lmCJ-qBsnIVyRdnGVq4MYtTE8QlGcJYF" height="500" frameborder="0" style="border: 0; width: 100%;" allowfullscreen></iframe>
+          </div>
         </div>
       </div>
     </div>
@@ -64,7 +83,7 @@ layout: default
           <div class="wow bounceInUp" data-wow-delay="0.4s">
                     <div id="owl-works" class="owl-carousel">
 {% for gal in site.data.gallery %}
-<div class="item"><a href="photos/{{ gal.img }}.jpg" data-lightbox-gallery="gallery1"><img src="photos/thumbs/{{ gal.img }}-thumb.jpg" class="img-responsive" alt="img"></a></div> 
+<div class="item"><a href="photos/{{ gal.img }}.jpg" data-lightbox-gallery="gallery1"><img src="photos/thumbs/{{ gal.img }}-thumb.jpg" class="img-responsive" alt="img"></a></div>
 {% endfor %}
 
                     </div>
@@ -81,18 +100,18 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          
+
             {% capture something %}
   {% include aboutus.md %}
   {% endcapture %}
 
   {{ something | markdownify }}
-          
+
         </div>
         <div class="col-md-6">
-        
+
           <img src="img/img3.jpg" class="img-responsive img-rounded" alt="" />
-        </div>    
+        </div>
       </div>
     </div>
   </section>

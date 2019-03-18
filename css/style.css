@@ -251,15 +251,15 @@ hr {
 ============================ */
 
 .home-section {
-    padding-top: 120px;
-    padding-bottom: 110px;
+    padding-top: 60px;
+    padding-bottom: 50px;
 	display:block;
     position:relative;
     z-index:120;
 }
 
 .section-heading {
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .section-heading h1 {
@@ -271,6 +271,9 @@ hr {
 	margin-bottom: 20px;
 }
 
+.bigtext {
+  margin-bottom: 20px;
+}
 
 /* --- section bg var --- */
 
@@ -301,7 +304,7 @@ hr {
 
 .intro {
 	width:100%;
-	position:relative;	
+	position:relative;
 	background: url(../img/bg1.jpg) no-repeat bottom center;
 	background-size: cover;
 }
@@ -331,7 +334,13 @@ hr {
     font-size: 18px;
 }
 
+.nav {
+  margin-top: 5px !important;
+}
 
+.nav>li>a {
+  padding: 10px 15px;
+}
 
 
 /* ===========================
@@ -355,7 +364,7 @@ hr {
     display: block;
     width: 100%;
     height: auto;
-}	
+}
 
 
 /* ===========================
@@ -431,7 +440,7 @@ footer a:hover {
 Parallax
 ============================= */
 
-#separator {	
+#separator {
 	background-image: url(../img/parallax-bg.jpg);
 }
 
@@ -443,7 +452,7 @@ Parallax
 	color: #fff;
 }
 
-#separator:after {	
+#separator:after {
 	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAEklEQVQImWNgYGD4z0AswK4SAFXuAf8EPy+xAAAAAElFTkSuQmCC);
 	content: "";
 	position: absolute;
@@ -529,7 +538,7 @@ a.btn:hover {
     -moz-animation-timing-function: linear;
 }
 
-@-webkit-keyframes pulse {    
+@-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
         transform: scale(1);
@@ -546,7 +555,7 @@ a.btn:hover {
     }
 }
 
-@-moz-keyframes pulse {    
+@-moz-keyframes pulse {
     0 {
         -moz-transform: scale(1);
         transform: scale(1);
@@ -598,7 +607,7 @@ a.btn:hover {
 	.navbar-header .fa {
 		color: #666;
 	}
-	
+
 	.col-xs-6 {
 		margin-bottom: 30px;
 	}
@@ -609,17 +618,17 @@ a.btn:hover {
 	.navbar-custom .nav.navbar-nav {
     background-color: rgba(255,255,255,.4);
 	}
-	
+
 	.navbar.navbar-custom.navbar-fixed-top {
 		margin-bottom: 30px;
 	}
 
-	
+
 	.page-scroll a {
 		width: 40px;
 		height: 40px;
 		margin-top: 10px;
 		font-size: 20px;
 	}
-	
+
 }
