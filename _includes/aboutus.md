@@ -11,8 +11,7 @@ For details, see the complete copy of our [constitution](https://www.andrew.cmu.
 
 Officers:
 
- * President: Eva Schlinger
+ * President: Ian Chesser
  * Vice President: Mert Terzi
  * Secretary: Steven Gailey
- * Treasurers: Eva Schlinger and Mert Terzi
  * Advisor and Webmaster: Christian Kästner

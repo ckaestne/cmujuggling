@@ -7,7 +7,8 @@ For the third year in a row, we will host the [FluggleBurgh](festival/) juggling
 
 We meet twice a week on the CMU campus:
 
- - **Sundays at 3 PM**, Newell-Simon Hall Atrium
- - **Wednesdays at 5 PM**, Roberts Engineering Hall SeaGate Atrium
+ - **Sundays at 3 PM**, Schenley Plaza or Newell-Simon Hall Atrium
+ - **Wednesdays at 5 PM**, Outside on the Cut or Roberts Engineering Hall Atrium
 
-During warm weather, these meetings will be outside on the cut. If you're driving, CMU's east campus parking garage is free after 5 PM on weekdays and all day Sunday.
+See mailing list for short term announcements, location changes, extra dates, or cancelations.
+During warm weather, meetings are usually outside on the cut or on Schenley Plaza. If you're driving, parking on campus is free after 5 PM on weekdays in most places (including the East Campus Garage) as well as all day Sunday.
