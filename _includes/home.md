@@ -1,11 +1,10 @@
 
-### Festival: Nov 1-3, 2019
-
-For the third year in a row, we will host the [FluggleBurgh](festival/) juggling festival. It will be Nov 1-3, 2019 in Pittsburgh.
 
 ### Juggle With Us!
 
-We meet twice a week on the CMU campus:
+**The juggling club is taking a break until meetings are safer again. Watch our mailing list for updates. Also our [FluggleBurgh](festival/) festival will take a break and will hopefully be back late 2021.**
+
+During normal times, we meet twice a week on the CMU campus:
 
  - **Sundays at 3 PM**, Schenley Plaza or Newell-Simon Hall Atrium
  - **Wednesdays at 5 PM**, Outside on the Cut or Roberts Engineering Hall Atrium
