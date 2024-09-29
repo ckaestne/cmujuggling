@@ -1,0 +1,45 @@
+name: Build and Publish
+
+on:
+    push:
+        branches:
+            - v2
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+        - uses: actions/checkout@v4
+
+        - name: Generate html
+          run: |
+            npm install -g marked@13.0.2
+            bash ./build.sh
+            cd festival
+            bash ./build.sh
+            rm body.html
+            cd ..
+            rm gallery.html
+            rm body.html
+
+        - name: Prepare site
+          run: |
+            mkdir _site
+            cp -r festival _site/
+            cp -r css _site/
+            cp -r js _site/
+            cp -r img _site/
+            cp -r photos _site/
+            cp -r *.html _site/
+
+        - name: Copy folder content recursively to remote
+          uses: garygrossgarten/github-action-scp@release
+          with:
+              local: _site
+              remote: wwwjuggle
+              host: ${{ secrets.HOST }}
+              username: ${{ secrets.SSH_USER }}
+              privateKey: ${{ secrets.PRIVATE_KEY}}
+              dotfiles: true   
+              
