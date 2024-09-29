@@ -18,11 +18,11 @@ In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](htt
 
 Our big goal of this festival is to bring the various  communities around circus arts and other skills from Pittsburgh and  beyond together,         share workshops, and showcase the various skills in a show. We  expect plenty of juggling, acrobatics, and flow workshops,         as well as some clowning, balloons, and maybe even magic and  unicycling.
 
-![img](file:///home/ckaestne/Dropbox/misc/cmujuggling/new/festival/2018-gym.jpg)
+![img](2018-gym.jpg)
 
- ![img](file:///home/ckaestne/Dropbox/misc/cmujuggling/new/festival/2018-acr.jpg)
+ ![img](2018-acr.jpg)
 
- ![img](file:///home/ckaestne/Dropbox/misc/cmujuggling/new/festival/2018-staff.jpg)
+ ![img](2018-staff.jpg)
 
 
 
@@ -58,7 +58,7 @@ We will have **beginner workshops** (no prior experience required, open to the g
 
 With the exception of the Renegade show, all activities (gym, workshops, shows) will be at **The Kingsley Association**       [6435 Frankstown Ave, Pittsburgh, PA 15206](https://www.google.com/maps/place/Kingsley+Association/@40.461283,-79.9164184,18z/data=!3m1!4b1!4m9!3m8!1s0x8834ed8bc3666227:0x9336f9b9a5dd0598!5m2!1s2017-11-10!2i2!8m2!3d40.461283!4d-79.9152007!16s%2Fg%2F1td72nkj!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D)
 
-Parking is available in front of and behind the building as  well as on nearby streets. The school is in the East End of Pittsburgh  and close to numerous bus stops (including 75, 77, 82, 86        and with a short walk 28X, P1, 71B-D, 88, 89). There are three  hotels and several restaurants within walking distance.
+Parking is available in front of and behind the building as  well as on nearby streets. The Kingsley Association is in the East End of Pittsburgh  and close to numerous bus stops (including 75, 77, 82, 86        and with a short walk 28X, P1, 71B-D, 88, 89). There are three  hotels and several restaurants within walking distance.
 
 ## T-Shirts
 
