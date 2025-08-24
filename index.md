@@ -10,7 +10,7 @@ We are the juggling club of the **Carnegie Mellon University** in **Pittsburgh**
 
 ### Festival
 
-The next [FluggleBurgh](https://www.andrew.cmu.edu/user//juggle/festival/) juggling festival is scheduled for **November 1-3, 2024**.
+The next [FluggleBurgh](https://www.andrew.cmu.edu/user//juggle/festival/) juggling festival is scheduled for **November 7-9, 2025**.
 
 ### Juggle With Us!
 
