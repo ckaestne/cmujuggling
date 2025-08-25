@@ -1,4 +1,4 @@
-# FluggleBurgh 2024
+# FluggleBurgh 2025
 
 **juggling * acro * flow arts * circus**
 
@@ -30,16 +30,18 @@ Our big goal of this festival is to bring the various communities around circus 
 
 **Gym times (open practice, workshops)** 
 
-* Friday Nov 7, 2024, 4pm-11pm (it's not too late to still wear Halloween costumes)
-* Saturday Nov 8, 2024, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
-* Sunday Nov 9, 2024, 10am-3pm (bonus hour of sleep due to daylight savings!)
+* Friday Nov 7, 2025, 5pm-11pm (it's not too late to still wear Halloween costumes)
+* Saturday Nov 8, 2025, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
+* Sunday Nov 9, 2025, 9am-3pm (bonus hour of sleep due to daylight savings!)
 
-To cover the costs of the festival, we ask for $10 per day or $20 for all three days for access to the gym and the workshops. Youth under 16 and locals within walking distance from the Kingsley Association can attend for free. 
+To cover the costs of the festival, we ask for $10 per day or $20 for all three days for access to the gym and the workshops. Youth under 16, locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
 <!-- Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804). -->
 
 **Fire Jam (Friday Nov 7, after dark, free)** 
 
-The fire jam is informal and will be outside in the parking lot, weather permitting, roughly 7 to 9pm. It will be canceled or moved in case of heavy rain. 
+The fire jam is informal and will be outside in the parking lot, weather permitting, roughly 7 to 9pm. It will be canceled or rescheduled in case of heavy rain. 
+
+Last year we also had a glow toy jam afterward inside.
 
 **FluggleBurgh Gala Show (Saturday Nov 8, 7:30-9pm, $10, Kingsley Association)** 
 
@@ -48,6 +50,8 @@ FluggleBurgh Gala Show: The Gala show on Saturday will be at the Kingsley Associ
 Show tickets can be bought for $10 in the gym during the festival, at the door, or online (tdb).
 <!-- [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804).  -->
 Doors open about 20-30 min before the show. 
+
+We still have one or two slots in the show. If you are interested in performing, email O'Ryan: o.ryan.mikeol@gmail.com
 
 **Underground Renegade Show (Saturday 11:30pm, free)**
 
@@ -62,8 +66,7 @@ There will be workshops. For reference, here is last year's schedule: [https://d
 For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (no entrance fee required, no prior experience required, open to the general public).
 For those who want to go beyond the basics, we have more *beginner-friendly workshops* throughout the weekend.
 
-
-
+Interested in teaching a workshop? [Let us know](https://forms.gle/GN35Lmzq8WMMTxYy7).
 
 
 <!-- ![Gala show flyer](gala24.jpg) -->
