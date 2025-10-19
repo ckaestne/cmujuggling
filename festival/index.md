@@ -14,9 +14,9 @@
 
 **FluggleBurgh** is a 3-day festival for all circus and skill arts hosted by  Pittsburghs juggling, acro, clowning, and flow arts community (FluggleBurgh = *fl*ow + j*uggle* + pitts*burgh*). It will be again at the The Kingsley Association in the east-end of Pittsbugh. FluggleBurgh will provide a communal practice space in a large gym with tall ceilings, classrooms with scheduled workshops all weekend, outdoor practice and fire space (weather permitting), object manipulation games/competition, and shows. All activities will be in the same space. All walks of object manipulation, circus arts, and movement arts are welcome. 
 
-In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](https://www.youtube.com/watch?v=_janE-erfKc) (2008-2015). Now, the festival is actually within the Pittsburgh city limits.
+In spirit, it is a successor of the [Not Quite Pittsburgh Juggling Festival](https://www.youtube.com/watch?v=_janE-erfKc) (2008-2015), but it's now within the Pittsburgh city limits.
 
-Our big goal of this festival is to bring the various communities around circus arts and other skills from Pittsburgh and beyond together, share workshops, and showcase the various skills in a show. We expect plenty of juggling, acrobatics, and flow workshops, as well as some clowning, balloons, and maybe even magic and unicycling.
+Our ongoing goal of this festival is to bring the various communities around circus arts and other skills from Pittsburgh and beyond together, share workshops, and showcase the various skills in a show. We expect plenty of juggling, acrobatics, and flow workshops, as well as some clowning, balloons, and maybe even magic and unicycling.
 
 ![img](2018-gym.jpg)
 
@@ -34,7 +34,7 @@ Our big goal of this festival is to bring the various communities around circus 
 * Saturday Nov 8, 2025, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
 * Sunday Nov 9, 2025, 9am-3pm (bonus hour of sleep due to daylight savings!)
 
-To cover the costs of the festival, we ask for $10 per day or $20 for all three days for access to the gym and the workshops. Youth under 16, locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
+To cover the costs of the festival, we ask for $10 per day or $20 for all three days for access to the gym and the workshops. Youth under 18 (must be accompanied by an adult), locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
 <!-- Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804). -->
 
 **Fire Jam (Friday Nov 7, after dark, free)** 
@@ -51,8 +51,6 @@ Show tickets can be bought for $10 in the gym during the festival, at the door, 
 <!-- [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804).  -->
 Doors open about 20-30 min before the show. 
 
-We still have one or two slots in the show. If you are interested in performing, email O'Ryan: o.ryan.mikeol@gmail.com
-
 **Underground Renegade Show (Saturday 11:30pm, free)**
 
 We will likely have a small renegade show in a secret location late on Saturday. We will share the location in the gym on Saturday after the show.
@@ -63,7 +61,7 @@ We will likely have a small renegade show in a secret location late on Saturday.
 
 There will be workshops. For reference, here is last year's schedule: [https://docs.google.com/spreadsheets/d/1N-YvaerTNzKkdIFDeTtNPbHvfz_v5VzUQssqL1YxB_w/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1N-YvaerTNzKkdIFDeTtNPbHvfz_v5VzUQssqL1YxB_w/edit?gid=0#gid=0)
 
-For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (no entrance fee required, no prior experience required, open to the general public).
+For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (free, no gym fee required, no prior experience required, open to the general public).
 For those who want to go beyond the basics, we have more *beginner-friendly workshops* throughout the weekend.
 
 Interested in teaching a workshop? [Let us know](https://forms.gle/GN35Lmzq8WMMTxYy7).
