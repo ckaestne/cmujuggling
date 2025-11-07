@@ -1,10 +1,10 @@
 
 ## generate pages
 
-npm install marked@13.0.2
+#npm install marked@13.0.2
 bash ./build.sh
 cd festival
-npm install marked@13.0.2
+#npm install marked@13.0.2
 bash ./build.sh
 rm body.html
 cd ..

@@ -6,6 +6,8 @@
 
 [Facebook Event](https://www.facebook.com/events/788635177290502)
 
+Tickets: [Card payment (tbd)], [[Cash payment](https://forms.gle/6pGEZtToC7VnEv967)]
+
 <!-- ![Flyer](flyer2024.jpg) -->
 
 ---
@@ -32,9 +34,9 @@ Our ongoing goal of this festival is to bring the various communities around cir
 
 * Friday Nov 7, 2025, 5pm-11pm (it's not too late to still wear Halloween costumes)
 * Saturday Nov 8, 2025, 10am-11pm (gym closes at 6pm to prepare for the show, reopens after the show)
-* Sunday Nov 9, 2025, 9am-3pm (bonus hour of sleep due to daylight savings!)
+* Sunday Nov 9, 2025, 9am-3pm
 
-To cover the costs of the festival, we ask for $10 per day or $20 for all three days for access to the gym and the workshops. Youth under 18 (must be accompanied by an adult), locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
+To cover the costs of the festival, we ask for $10 per day for access to the gym and the workshops on Friday and Saturday (Sunday free). Youth under 18 (must be accompanied by an adult), locals within walking distance from the Kingsley Association, and all Kingsley Association Members can attend for free. 
 <!-- Tickets can be bought on site or [online](https://operations.daxko.com/online/5337/ProgramsV2/Events.mvc/offering?guid=664f1c27-7f43-11ef-99cf-005056924804). -->
 
 **Fire Jam (Friday Nov 7, after dark, free)** 
@@ -55,11 +57,16 @@ Doors open about 20-30 min before the show.
 
 We will likely have a small renegade show in a secret location late on Saturday. We will share the location in the gym on Saturday after the show.
 
+**Games (Sunday 11am)**
+
+Watch or compete in various, mostly silly, juggling and circus games. Approachable for all.
 
 **Workshop Schedule** 
 
+We have various workshops throughout the weekend. Look for last minute changes, but this is the plan right now:
 
-There will be workshops. For reference, here is last year's schedule: [https://docs.google.com/spreadsheets/d/1N-YvaerTNzKkdIFDeTtNPbHvfz_v5VzUQssqL1YxB_w/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1N-YvaerTNzKkdIFDeTtNPbHvfz_v5VzUQssqL1YxB_w/edit?gid=0#gid=0)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSuThN_6EeRbhAmElJ5sEvNvuYTJeuCR-BH67Nu0aG3FZYwkSv2PfwWNvx2TlucFrK9Sj8x1JeNOHUj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"   width="800" height="600" frameborder="0" style="border:0" ></iframe>
+
 
 For **absolute beginners**, we teach anybody how to start juggling at the front desk throughout the entire festival (free, no gym fee required, no prior experience required, open to the general public).
 For those who want to go beyond the basics, we have more *beginner-friendly workshops* throughout the weekend.
